@@ -3,3 +3,4 @@ scikit-learn
 joblib
 pandas
 numpy
+gunicorn==20.1.0
